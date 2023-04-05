@@ -4,7 +4,7 @@ Overview:
 
 This is a retro-style 2D side-scrolling. The player controls a character who can run, jump, and climb ladders. player has to avoid hazard obstacles in order to progress.
 
-Features:
+Implementation:
 
 1. Implemented player movement with idle, run, and jump animations, as well as ladder climbing mechanics.
 
